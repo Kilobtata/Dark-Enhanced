@@ -1,0 +1,22 @@
+{
+  "name": "dark-enhanced",
+  "displayName": "Dark Enhanced",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "ahmed-sabry",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Enhanced",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Enhanced-color-theme.json"
+      }
+    ]
+  }
+}
